@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "827777981002",
+    "firebase_url": "https://voyager-51e64.firebaseio.com",
+    "project_id": "voyager-51e64",
+    "storage_bucket": "voyager-51e64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827777981002:android:972385974228448904e4b3",
+        "android_client_info": {
+          "package_name": "com.my.voyager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827777981002-pij7vbvh6i0sn0ijq24lgs7brtm5chea.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.my.voyager",
+            "certificate_hash": "0d035c8cc55061d1c80d30cab4c41b560e4bbddc"
+          }
+        },
+        {
+          "client_id": "827777981002-uq5294etk4uo7tsgh1q4stnvhsva5qld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaoXL8_92FBNtK3UtuvY1Qk5mPpnHkMJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827777981002-uq5294etk4uo7tsgh1q4stnvhsva5qld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
